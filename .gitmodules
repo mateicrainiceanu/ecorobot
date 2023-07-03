@@ -1,0 +1,12 @@
+[submodule "ecorobo-app"]
+	path = ecorobo-app
+	url = https://github.com/mateicrainiceanu/ecorobo-app.git
+[submodule "ecorobot-arduino"]
+	path = ecorobot-arduino
+	url = https://github.com/mateicrainiceanu/ecorobot-arduino.git
+[submodule "ecorobot-rev"]
+	path = ecorobot-rev
+	url = https://github.com/mateicrainiceanu/ecorobot-rev.git
+[submodule "ecorobot-app"]
+	path = ecorobot-app
+	url = https://github.com/mateicrainiceanu/ecorobo-app.git
